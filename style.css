@@ -473,10 +473,11 @@ textarea:focus {
             width: 100%; }
             .header-area .top-header-area .breaking-news .ticker ul li a {
               font-size: 14px;
-              color: #b6b6b6;
-              font-style: italic; }
+              color: #4d4d4d;
+              /*font-family: trajan-sans-pro;*/
+               }
               .header-area .top-header-area .breaking-news .ticker ul li a:hover, .header-area .top-header-area .breaking-news .ticker ul li a:focus {
-                color: #ffc800; }
+                /*color: #ffc800; */}
                 
                 
     .header-area .top-header-area .top-social-info a {
@@ -1304,7 +1305,7 @@ textarea:focus {
   position: relative;
   z-index: 10;
   width: 80%;
-  height: 600px;
+  height: 300px;
   padding-left: 10em;
   margin-bottom: -3em;
   margin-left: 10%;

@@ -546,10 +546,8 @@ textarea:focus {
                         a {
                             font-size: 14px;
                             color: #b6b6b6;
-                            font-style: italic;
-                            &:hover,
-                            &:focus {
-                                color: $hover-color;
+                            
+                            
                             }
                         }
                     }
