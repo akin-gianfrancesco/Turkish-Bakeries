@@ -1340,7 +1340,7 @@ textarea:focus {
     height: 680px; }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .map-area #googleMap {
-        height: 500px; } }
+        height: 700px; } }
     @media only screen and (max-width: 767px) {
       .map-area #googleMap {
         height: 350px; } }
